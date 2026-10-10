@@ -1,0 +1,5 @@
+buildenv/
+build/
+__pycache__/
+*.pyc
+highscore.json
